@@ -4,7 +4,6 @@
 ## SOFT: [Vault](https://github.com/MilkBowl/Vault/releases), [PlayerPoints](https://www.spigotmc.org/resources/80745/), [TokenManager](https://github.com/Realizedd/TokenManager/releases), [HeadDatabase](https://www.spigotmc.org/resources/14280/)
 # › Features
 - Support for various databases in asynchronous: SQLite, H2, PostgreSQL, MariaDB, and MySQL
-- Compatibility with language configurations
 - Spawn gifts at several specified locations
 - Customizable gift items using HeadDatabase ID's or Nicknames
 - Customizable rewards: experience or cash rewards. When the limit is reached, issue any reward using the command
