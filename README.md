@@ -1,3 +1,7 @@
+[![Watch the video](https://img.youtube.com/vi/1zbs7K46cpg/maxresdefault.jpg)](https://youtu.be/1zbs7K46cpg)
+# JAVA 16 or Higher
+## DEPENDENCIES: [NBTAPI](https://github.com/tr7zw/Item-NBT-API/releases), [PLACEHOLDERAPI](https://github.com/PlaceholderAPI/PlaceholderAPI/releases)
+## SOFT: [Vault](https://github.com/MilkBowl/Vault/releases), [PlayerPoints](https://www.spigotmc.org/resources/80745/), [TokenManager](https://github.com/Realizedd/TokenManager/releases), [HeadDatabase](https://www.spigotmc.org/resources/14280/)
 # › Features
 - Support for various databases in asynchronous: SQLite, H2, PostgreSQL, MariaDB, and MySQL
 - Compatibility with language configurations
