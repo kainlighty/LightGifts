@@ -1,9 +1,10 @@
 # › Features
 - Support for various databases in asynchronous: SQLite, H2, PostgreSQL, MariaDB, and MySQL
 - Compatibility with language configurations
-- Support for over 25 different gift spawn locations
+- Spawn gifts at several specified locations
 - Customizable gift items using HeadDatabase ID's or Nicknames
-- Customizable rewards, including commands, experience, and money rewards
+- Customizable rewards: experience or cash rewards. When the limit is reached, issue any reward using the command
+- Multiple languages (more in the future)
 
 # › Abilities:
 - Limit on the number of gifts that can be collected
