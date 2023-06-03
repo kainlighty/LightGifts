@@ -30,12 +30,12 @@
 # › Permissions
 | Permissions | Description
 | --- | --- |
-| lightcheck.bypass | Removes all prohibitions
-| lightcheck.notify | For update alerts when logging in
-| lightcheck.admin | Full access to the plugin
+| lightgifts.bypass | Removes all prohibitions
+| lightgifts.notify | For update alerts when logging in
+| lightgifts.admin | Full access to the plugin
   
 # › Placeholders (PAPi)
 - %lightgifts_pickuped% - Number of gifts found
-- %lightgifts_pickuped_%player_name% or %lightgifts_pickuped_kainlight% - The number of player's gifts found
+- %lightgifts_pickuped_%player_name% or %lightgifts_pickuped_NICKNAME% - The number of player's gifts found
 - %lightgifts_total% - Number of gifts found with limit value
-- %lightgifts_total_%player_name% or %lightgifts_total_kainlight% - The number of player's gifts found with limit value
+- %lightgifts_total_%player_name% or %lightgifts_total_NICKNAME% - The number of player's gifts found with limit value
