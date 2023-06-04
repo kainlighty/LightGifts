@@ -13,6 +13,7 @@
 - Limit on the number of gifts that can be collected
 - Automatic saving of statistics at a specified interval (in minutes)
 - Restrictions on the use of gifts in editing mode: prohibiting breaking, dropping, moving, and crafting
+- Randomization. When a gift is spawned, the skins will be different in most cases (if more than 1 ID or Nickname).
 
 # › Commands
 | Command | Description | Permission |
