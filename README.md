@@ -24,7 +24,7 @@
 | gifts editor | Enable editing mode | lightgifts.editor
 | gifts spawn <x, y, z> | Spawn a gift at specified coordinates | lightgifts.spawn.location
 | gifts spawn | Spawn a gift from configuration | lightgifts.spawn
-| gifts reset | Delete all gifts | lightgifts.reset
+| gifts reset <gifts or statistics> | Delete all gifts | lightgifts.reset
 | gifts reload | Reload configs | lightgifts.reload
   
 # › Permissions
