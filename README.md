@@ -13,7 +13,7 @@
 - Limit on the number of gifts that can be collected
 - Automatic saving of statistics at a specified interval (in minutes)
 - Restrictions on the use of gifts in editing mode: prohibiting breaking, dropping, moving, and crafting
-- Randomization. When a gift is spawned, the skins will be different in most cases (if more than 1 ID or Nickname).
+- Randomization gift skins and reward amounts
 
 # › Commands
 | Command | Description | Permission |
@@ -26,6 +26,7 @@
 | gifts spawn | Spawn a gift from configuration | lightgifts.spawn
 | gifts reset <gifts or statistics> | Delete all gifts | lightgifts.reset
 | gifts reload | Reload configs | lightgifts.reload
+| gifts reload | If the config has been updated, you can easily update it too without deleting it | lightgifts.reload
   
 # › Permissions
 | Permissions | Description
