@@ -19,7 +19,7 @@
 | Command | Description | Permission |
 | --- | --- | --- |
 | gifts | Help by commands | lightgifts.help
-| gifts stats | Show your statistics | lightgifts.stats (default: true)
+| gifts stats | Show your statistics | lightgifts.stats
 | gifts stats <player> | Show player statistics | lightgifts.stats.other
 | gifts editor | Enable editing mode | lightgifts.editor
 | gifts spawn <x, y, z> | Spawn a gift at specified coordinates | lightgifts.spawn.location
