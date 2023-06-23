@@ -39,7 +39,11 @@
 | lightgifts.admin | Full access to the plugin
   
 # › Placeholders (PAPi)
-- %lightgifts_pickuped% - Number of gifts found
-- %lightgifts_pickuped_NICKNAME% - The number of player's gifts found
-- %lightgifts_total% - Number of gifts found with limit value
-- %lightgifts_total_NICKNAME% - The number of player's gifts found with limit value
+| %Placeholder% | Description
+| --- | --- |
+| lightgifts_count | Number of gifts found
+| lightgifts_count_NICKNAME | The number of player's gifts found
+| lightgifts_rewards | Number of rewards collected
+| lightgifts_rewards_NICKNAME | The number of player's rewards collected
+| lightgifts_total | Number of gifts found with limit value
+| lightgifts_total_NICKNAME | The number of player's gifts found with limit value
